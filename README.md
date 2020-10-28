@@ -9,3 +9,6 @@ This project was created by using react, react-router, bootstrap, cors, body-par
 - Mongodb for database management.
 - Admin dashboard to add new services or new admin and change order status of individual customers.
 - User dashboard to see his/her orders and status.
+
+**live-link:** [https://affectionate-ride-ec4795.netlify.app/](https://affectionate-ride-ec4795.netlify.app/)
+**client-link:** [https://github.com/JunayedHassan/design-agency/](https://github.com/JunayedHassan/design-agency/)
